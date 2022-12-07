@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{10:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),o=t(1);n.default=r.a.forwardRef(function(e,n){var t=r.a.useContext(o.a);return r.a.createElement("button",Object.assign({ref:n},e),"Hey! ",t.currentTile)})}}]);
+//# sourceMappingURL=1.731baf27.chunk.js.map
